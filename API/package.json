@@ -1,0 +1,18 @@
+{
+  "name": "scraper_api",
+  "version": "1.0.0",
+  "description": "Scraping required website and giving data through an API.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "MaNa",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "node-datetime": "^2.1.2",
+    "request": "^2.88.0"
+  }
+}
